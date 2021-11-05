@@ -33,7 +33,6 @@ export default function Home() {
 				<link rel='icon' href='../public/images/favicon.ico' />
 			</Head>
 			<Header />
-
 			<main classNameName='container'>
 				<section className='container__section' id='one'>
 					<div
@@ -42,7 +41,7 @@ export default function Home() {
 						id='content-one'
 					>
 						<div className='container__content-header'>
-							<h2>Forza F1</h2>
+							<h2>FORZA x1</h2>
 							<p>Order Online for Touchless Delivery</p>
 						</div>
 						<div className='container__content-footer'>
@@ -101,8 +100,7 @@ export default function Home() {
 					</div>
 				</section>
 			</main>
-      f4r
-
+			f4r
 			<div className='overlay'>
 				<div className='overlay__menu'>
 					<div className='overlay__close'>
