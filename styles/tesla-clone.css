@@ -161,13 +161,13 @@ p {
 	background-position: center;
 }
 .container__section:nth-child(1) {
-	background-image: url(https://cvvkshcv.github.io/tesla-home-page/img/section-img/one.jpg);
+	background-image: url('/images/boat1.jpg');
 }
 .container__section:nth-child(2) {
-	background-image: url(https://cvvkshcv.github.io/tesla-home-page/img/section-img/two.jpg);
+	background-image: url('/images/boat2.jpg');
 }
 .container__section:nth-child(3) {
-	background-image: url(https://cvvkshcv.github.io/tesla-home-page/img/section-img/three.jpg);
+	background-image: url('/images/boat3.jpg');
 }
 .header__nav--mobile {
 	display: none;
